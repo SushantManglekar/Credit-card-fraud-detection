@@ -1,4 +1,4 @@
-# PGDDS-Capstone-Project
+# PGDAIML-Capstone-Project
 Credit Card Fraud Detection Project
 
 # Problem Statement:  
